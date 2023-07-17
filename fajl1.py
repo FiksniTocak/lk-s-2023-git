@@ -1,2 +1,2 @@
 def funkcija():
-    print('B')
+    print('E')
