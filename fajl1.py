@@ -1,0 +1,2 @@
+def funkcija():
+    print('A')
